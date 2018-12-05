@@ -5,7 +5,7 @@ configuration
  "keddea":24,
  "deeraf":45,
  "jiankan":1,
- "xianshiPage":"xianshiPage",
+ "Näyttötapa":"xianshiPage",
  "ceshilai":"ceshilaiceshilai",
  "Konfiguration":"構成",
  "Reis essen":"米を食べる",
