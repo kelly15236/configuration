@@ -1,4 +1,3 @@
-configuration
 {
  "xinmin":"Michael",
  "keddea":24,
